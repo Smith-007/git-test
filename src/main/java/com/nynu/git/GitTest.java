@@ -6,6 +6,7 @@ public class GitTest {
         System.out.println("hello Hadoop");
         System.out.println("hello Spring");
         System.out.println("hello Mybatis");
+        System.out.println("master-test");
 
 
 
